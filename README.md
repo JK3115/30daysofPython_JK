@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey: 30 Days of Python
+#  Python Learning Journey: 30 Days of Python
 
 ## Introduction
 I am jumping back into the world of development. To kickstart my progress and build a solid foundation, I am working through the **30 Days of Python** challenge. 
@@ -10,12 +10,12 @@ The **30 Days of Python** curriculum (found [here](https://github.com/Asabeneh/3
 
 While the title suggests a month, I recognize that true mastery takes time—this challenge may take me 100 days or more. My goal isn't just to finish, but to make **meaningful, consistent progress** and build a habit of daily coding. I also cannot gaurauntee progress everyday as I have other responsibilties as well, but I be continuing as consistently and as "daily" as I can.
 
-## 🛠️ Exercises & Progress
+##  Exercises & Progress
 At the end of each "Day" in the curriculum, there are exercises to reinforce the concepts covered. 
 * I will be posting my solutions to these challenges as I complete them.
 * Each day's work is organized into its own folder for easy navigation.
 
-## 💬 Community & Feedback
+##  Community & Feedback
 This project is purely for my own growth and experience, but I would love to hear from you! 
 * **Follow along** as I progress from the basics to advanced topics.
 * **Suggestions:** If you see a more "Pythonic" way to solve a problem, please let me know!
